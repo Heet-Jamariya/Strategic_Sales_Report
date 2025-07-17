@@ -1,16 +1,17 @@
 # 📊 Strategic Sales Report
 
-## 🎯 Project Objective
-The primary objective of this project is to provide the auction management team with a powerful analytics tool. This dashboard replaces manual reporting, allowing stakeholders to track revenue, analyze sales trends, and identify key business drivers in real-time to make data-driven decisions for future auctions.
-
-## 📖 Description
-This project is a comprehensive analytics dashboard built in **Apache Superset** to provide deep insights into auction performance. The dashboard replaces manual reporting with a dynamic, self-service tool, allowing stakeholders to track revenue, analyze sales trends, and identify key business drivers in real-time.
-
-The layout features Key Performance Indicator (KPI) cards at the top for a high-level summary, a grid of ten specialized charts for detailed analysis, and an interactive filter panel.
+![Strategic Sales Report Dashboard](screenshots/dashboard-full-view.png)
 
 ---
 
-## 💡 Project Insights
+## 📖 Project Overview
+The primary objective of this project was to develop a comprehensive analytics dashboard in **Apache Superset** for an auction business. This dashboard replaces slow, manual reporting with a dynamic, self-service tool that allows stakeholders to track revenue, analyze sales trends, and identify key business drivers in real-time to make data-driven decisions.
+
+The layout features Key Performance Indicator (KPI) cards for a high-level summary, a grid of ten specialized charts for detailed analysis, and an interactive filter panel.
+
+---
+
+## 💡 Key Insights & Recommendations
 Based on the analysis, several key insights were uncovered:
 * The **Manufacturing / Production** sector is the most significant revenue driver.
 * Geographically, **California** is the highest-grossing state for sales.
@@ -19,27 +20,22 @@ Based on the analysis, several key insights were uncovered:
 
 ---
 
-## 🔑 Key Performance Indicators
-This dashboard tracks the following core business metrics:
+## 📊 Dashboard Features
+
+#### Key Performance Indicators Tracked:
 * Total Lots Sold
 * Total Revenue
-* Average Starting Price
-* Average Sold Price
+* Average Starting Price & Sold Price
 * % Above Starting Price
 * Average High Estimate
-* Unsold Lots
-* Unsold Lots Starting Price
+* Unsold Lots & Their Starting Price
 
----
-
-## 📈 Key Visualizations & Analyses
-* **Geographic Analysis:** Visualized total sales revenue by US state to identify top-performing regions and focus marketing efforts.
-* **Industry Segmentation:** Utilized a treemap to break down total revenue by industry, identifying "Manufacturing / Production" as the core market segment.
-* **Time-Series Trend Analysis:** Tracked the volume of lots sold over time to monitor business growth and identify peak activity periods.
-* **Price Point Analysis:** Created a histogram showing the distribution of sales across different price brackets, revealing that the majority of lots are sold in the 0-100 price range.
-* **Pricing Strategy Evaluation:** Compared the trends of average starting prices vs. average sold amounts over time.
-* **Asset-Level Revenue:** Identified which specific high-value items contributed most to overall revenue.
-* **Inventory Analysis:** Analyzed the value and volume of unsold items, segmented by industry, to identify potential areas for inventory reduction.
+#### Key Visualizations & Analyses:
+* **Geographic Analysis:** A map visualizing total sales revenue by US state.
+* **Industry Segmentation:** A treemap breaking down total revenue by industry.
+* **Time-Series Trend Analysis:** Line charts tracking sales volume and revenue over time.
+* **Price Point Analysis:** A histogram showing the distribution of sales across different price brackets.
+* **Pricing Strategy Evaluation:** A dual-axis chart comparing starting prices vs. final sold amounts.
 
 ---
 
@@ -71,13 +67,13 @@ This project involved overcoming several technical hurdles that required creativ
 ## 💻 Technologies Used
 * **Apache Superset:** For dashboard development and visualization.
 * **SQL:** For creating calculated columns and complex data queries.
-* **Formatting:** For custom KPI and chart formatting.
+* **D3.js Formatting:** For custom KPI and chart formatting.
 * **Figma:** Used for initial UI/UX mockups.
 
 ---
 
 ## 📂 Project Assets
 This repository contains the showcase materials for the project.
-* The `/screenshots` directory contains anonymized images of the final dashboard.
-* The `README.md` file provides a detailed overview of the project's features, analyses, and technical solutions.
+* The `screenshots` directory contains the high-resolution images of the dashboard.
+* The `README.md` file provides this detailed overview of the project.
 * An optional dashboard export file can be included to share the configuration.
