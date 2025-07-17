@@ -1,6 +1,6 @@
 # 📊 Strategic Sales Report
 
-![Strategic Sales Report Dashboard](screenshots/dashboard-full-view.png)
+![Strategic Sales Report Dashboard](https://github.com/Heet-Jamariya/Strategic_Sales_Report/blob/8a9722feb08d86e9e3ec87c6ae7f9e211bc4ddca/screenshots/dashboard-full-view.jpg)
 
 ---
 
@@ -67,7 +67,7 @@ This project involved overcoming several technical hurdles that required creativ
 ## 💻 Technologies Used
 * **Apache Superset:** For dashboard development and visualization.
 * **SQL:** For creating calculated columns and complex data queries.
-* **D3.js Formatting:** For custom KPI and chart formatting.
+* **Formatting:** For custom KPI and chart formatting.
 * **Figma:** Used for initial UI/UX mockups.
 
 ---
