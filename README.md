@@ -1,9 +1,21 @@
 # 📊 Strategic Sales Report
 
+## 🎯 Project Objective
+The primary objective of this project is to provide the auction management team with a powerful analytics tool. This dashboard replaces manual reporting, allowing stakeholders to track revenue, analyze sales trends, and identify key business drivers in real-time to make data-driven decisions for future auctions.
+
 ## 📖 Description
 This project is a comprehensive analytics dashboard built in **Apache Superset** to provide deep insights into auction performance. The dashboard replaces manual reporting with a dynamic, self-service tool, allowing stakeholders to track revenue, analyze sales trends, and identify key business drivers in real-time.
 
 The layout features Key Performance Indicator (KPI) cards at the top for a high-level summary, a grid of ten specialized charts for detailed analysis, and an interactive filter panel.
+
+---
+
+## 💡 Project Insights
+Based on the analysis, several key insights were uncovered:
+* The **Manufacturing / Production** sector is the most significant revenue driver.
+* Geographically, **California** is the highest-grossing state for sales.
+* A high volume of sales occurs at lower price points (0-100 range), indicating a healthy market for smaller items.
+* Analysis of unsold items shows which industries have the most capital tied up in inventory, presenting an opportunity for targeted promotions.
 
 ---
 
