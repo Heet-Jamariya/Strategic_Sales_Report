@@ -1,11 +1,5 @@
 # 📊 Strategic Sales Report
 
-<p align="center">
-  <img src="strategic-sales-report.jpg" alt="Strategic Sales Report" width="800"/>
-</p>
-
----
-
 ## 📖 Description
 This project is a comprehensive analytics dashboard built in **Apache Superset** to provide deep insights into auction performance. The dashboard replaces manual reporting with a dynamic, self-service tool, allowing stakeholders to track revenue, analyze sales trends, and identify key business drivers in real-time.
 
