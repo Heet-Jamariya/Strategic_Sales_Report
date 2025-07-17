@@ -1,6 +1,13 @@
 # 📊 Strategic Sales Report
 
-![Strategic Sales Report Dashboard](https://github.com/Heet-Jamariya/Strategic_Sales_Report/blob/8a9722feb08d86e9e3ec87c6ae7f9e211bc4ddca/screenshots/dashboard-full-view.jpg)
+---
+## 🖼️ Dashboard & Chart Previews
+Due to its vertical length, the full dashboard is best viewed directly. Click the links below to see the high-resolution images:
+
+* **[View Full Dashboard](https://github.com/Heet-Jamariya/Strategic_Sales_Report/blob/main/screenshots/dashboard-full-view.jpg)**
+* **[Filter Panel Details](https://github.com/Heet-Jamariya/Strategic_Sales_Report/blob/main/screenshots/dashboard-filters.png)**
+* **[Revenue by Industry Chart](https://github.com/Heet-Jamariya/Strategic_Sales_Report/blob/main/screenshots/chart-treemap-industries.png)**
+* **[US Sales Revenue Map](https://github.com/Heet-Jamariya/Strategic_Sales_Report/blob/main/screenshots/chart-geo-map.png)**
 
 ---
 
