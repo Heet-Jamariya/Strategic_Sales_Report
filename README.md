@@ -79,7 +79,7 @@ This project involved overcoming several technical hurdles that required creativ
 
 * **Advanced Custom Binning for Price Distribution:**
     * **Problem:** The business needed to see item distribution in fixed-width price intervals, but Superset's standard histogram could not create them.
-    * **Solution:** I engineered the data at the source by adding a **Calculated Column** using a `FLOOR()` SQL statement to pre-calculate the correct price bucket for every row.
+    * **Solution:** I engineered the data at the source by adding a **Calculated Column** using a `CASE & END` SQL statement to pre-calculate the correct price bucket for every row.
 
 ---
 
