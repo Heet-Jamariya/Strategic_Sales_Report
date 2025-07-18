@@ -1,7 +1,12 @@
 # Case Study: Strategic Sales Report Dashboard
 
+> **Note:** This is the text-based version of the case study for GitHub. For a more visual experience with embedded screenshots and professional formatting, please view the full case study document.
+> ### ➡️ [**View the Full Visual Case Study (Google Doc)**](https://docs.google.com/document/d/10xZssYWOhIzqghM30zAqdMFC5BcLZPhLcYrfeo4dLxM/edit?usp=sharing)
+
+---
+
 ### 1. Project Inception & My Role
-As a new member of the team, my journey on this project began when I was entrusted with the database credentials by my team lead. My initial directive was to connect to the data, perform a thorough exploration of the schema, and build a comprehensive sales dashboard to identify key trends and performance metrics. This foundational analysis and development was crucial for providing the business with a new, interactive way to view their sales data.
+As a new member of the data team, my journey on this project began when I was entrusted with the database credentials by my team lead. My initial directive was to connect to the data, perform a thorough exploration of the schema, and build a comprehensive sales dashboard to identify key trends and performance metrics. This foundational analysis and development was crucial for providing the business with a new, interactive way to view their sales data.
 
 ---
 
