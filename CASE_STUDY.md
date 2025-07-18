@@ -46,7 +46,7 @@ The development workflow followed a structured, iterative process:
 
 * **Challenge 5: Advanced Custom Binning for Price Distribution**
     * **Problem:** The business needed to see item distribution in fixed-width price intervals (e.g., buckets of $18,000), but Superset's standard histogram only allows selecting the number of bins, not their size.
-    * **Solution:** The final solution was to engineer the data at the source. A **Calculated Column** was added to the Dataset using a `FLOOR()` SQL statement to pre-calculate the correct price bucket for every row. This allowed the standard Histogram chart to correctly display the custom bins, demonstrating a best-practice approach of solving tool limitations through data modeling.
+    * **Solution:** The final solution was to engineer the data at the source. A **Calculated Column** was added to the Dataset using a `CASE & END` SQL statement to pre-calculate the correct price bucket for every row. This allowed the standard Histogram chart to correctly display the custom bins, demonstrating a best-practice approach of solving tool limitations through data modeling.
 
 ---
 
