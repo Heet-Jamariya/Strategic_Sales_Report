@@ -12,9 +12,8 @@ Due to its vertical length, the full dashboard is best viewed directly. Click th
 ---
 
 ### 📝 Full Project Case Study
-For a detailed, step-by-step breakdown of the project lifecycle—from initial requirements to final recommendations—please view the full case study.
-
-➡️ [**Read the Full Case Study Here**](https://github.com/Heet-Jamariya/Strategic_Sales_Report/blob/main/CASE_STUDY.md)
+> **Note:** This is the text-based version of the case study. For a more visual experience with embedded screenshots and professional formatting, please view the full case study document.
+### ➡️ [**View the Full Visual Case Study (Google Doc)**](https://docs.google.com/document/d/10xZssYWOhIzqghM30zAqdMFC5BcLZPhLcYrfeo4dLxM/edit?usp=sharing)
 
 ---
 
